@@ -1,16 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package utils;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-
 /**
- *
- * @author Ashlan.olson
+ * Authors: Quenten Franc Jatkowski and Ashlan Elizabeth Olson
+ * Date: 04/24/18
+ * Overview: Creates change out of the least amount of coins from array given, using dynamic programming. Returns a list of the coins used.
  */
 public class CoinsUtils 
 {
