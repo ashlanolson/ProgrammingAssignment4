@@ -1,15 +1,13 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package utils;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- *
- *  Authors: Quenten Franc Jatkowski and Ashlan Elizabeth Olson
+ * Authors: Quenten Franc Jatkowski and Ashlan Elizabeth Olson
+ * Date: 04/24/18
+ * Overview: Class with 4 tests in order to check if program is correctly using a dynamic algorithm to return a list of coins used. 
+ * One test throws an exception if the array is empty. The other 3 are used to show the correct coins are being chosen no matter the coins given.
  */
 public class TestCoinsUtils {
     
